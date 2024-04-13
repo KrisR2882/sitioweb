@@ -1,0 +1,16 @@
+body {
+    padding: 20px; 
+    background-image: url('./images/rm4.jpg'); 
+    background-size: cover; 
+    background-attachment: fixed;
+
+}
+
+#app {
+    max-width: 1200px; 
+    margin: 0 auto; 
+}
+
+h1{
+    text-align: center;
+}
